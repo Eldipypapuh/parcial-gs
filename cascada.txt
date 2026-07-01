@@ -1,0 +1,6 @@
+-analisis de requisitos
+-diseño
+-codificacion
+-pruebas
+-entrega o despliegue
+-mantenimento
